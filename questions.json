@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "category": "progress",
+    "text": "What key task did you complete yesterday?"
+  },
+  {
+    "id": 2,
+    "category": "priority",
+    "text": "What is your main focus or top priority today?"
+  },
+  {
+    "id": 3,
+    "category": "blockers",
+    "text": "Are there any blockers holding up your deliverables?"
+  }
+]

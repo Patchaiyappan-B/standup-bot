@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and Environment Variables (Never commit API keys!)
+.env
+*.env
+
+# Output logs and system files
+*.log
+runs.json
+.DS_Store
+Thumbs.db
